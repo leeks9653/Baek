@@ -23,6 +23,7 @@ public class Q_2750 {
 					arr[j] = arr[j + 1];
 					arr[j + 1] = temp;
 				}
+				
 			}
 		}
 		for (int t : arr) {
